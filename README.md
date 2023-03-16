@@ -2,6 +2,8 @@
 This is an assignment2 I did while taking a deep learning course at Korea University.
 
 In this assignment, I trained the cifar-10 dataset with vgg16 and ResNet-50.
+
+
 < Train “VGG-16” >
 * Train “VGG-16” model with “CIFAR-10” datasets
 * Optimize parameters with Adam optimizer and cross Entropy Loss
