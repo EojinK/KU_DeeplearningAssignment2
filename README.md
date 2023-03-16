@@ -2,7 +2,7 @@
 This is an assignment2 I did while taking a deep learning course at Korea University.
 
 In this assignment, I trained the cifar-10 dataset with vgg16 and ResNet-50.
-* Train “VGG-16”
+< Train “VGG-16” >
 * Train “VGG-16” model with “CIFAR-10” datasets
 * Optimize parameters with Adam optimizer and cross Entropy Loss
   * Use “VGG-16” model with torch.nn library
@@ -13,7 +13,7 @@ In this assignment, I trained the cifar-10 dataset with vgg16 and ResNet-50.
 3) You can use a trained checkpoint parameters of 250 epochs. You will train model only 1 epoch.
 
 
-* Implement “ResNet-50”
+< Implement “ResNet-50” >
 * Train “ResNet-50” model with “CIFAR-10” datasets
 * Optimize parameters with Adam optimizer and cross Entropy Loss
   * Get “CIFAR-10” dataset with torchvision library
