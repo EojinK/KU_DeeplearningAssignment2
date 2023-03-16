@@ -5,8 +5,8 @@ In this assignment, I trained the cifar-10 dataset with vgg16 and ResNet-50.
 * Train “VGG-16”
 • Train “VGG-16” model with “CIFAR-10” datasets
 • Optimize parameters with Adam optimizer and cross Entropy Loss
-  ■ Use “VGG-16” model with torch.nn library
-  ■ Get “CIFAR-10” Dataset with torchvision library
+  • Use “VGG-16” model with torch.nn library
+  • Get “CIFAR-10” Dataset with torchvision library
 • Procedure
 1) Load the trained model (which is given)
 2) Train it with CPU or GPU, and screen capture the test accuracy.
@@ -16,7 +16,7 @@ In this assignment, I trained the cifar-10 dataset with vgg16 and ResNet-50.
 * Implement “ResNet-50”
 • Train “ResNet-50” model with “CIFAR-10” datasets
 • Optimize parameters with Adam optimizer and cross Entropy Loss
-■ Get “CIFAR-10” dataset with torchvision library
+  • Get “CIFAR-10” dataset with torchvision library
 • Procedure
 1) Load the trained model (which is given)
 2) Complete the class ResNet50_layer4 in “resnet50_skeleton.py” .
